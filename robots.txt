@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kure-sensai.github.io/sitemap.xml
